@@ -1,7 +1,7 @@
 # About Project
 
 # 1. Project Goal
-- Use R to visualize covid-19 growth trend. And find difference of confirmed cases between China and other countries.
+- Use R to visualize covid-19 growth trend. And find differences in confirmed cases between China and other countries.
 
 # 2. Analyze data
 - In February, the majority of cases were in China. That changed in March when it really became a global outbreak: around March 14, the total number of cases outside China overtook the cases inside China. There were a couple of other landmark events that happened during the outbreak. For example, the huge jump in the China line on February 13, 2020 wasn't just a bad day regarding the outbreak; China changed the way it reported figures on that day (CT scans were accepted as evidence for COVID-19, rather than only lab tests).  
