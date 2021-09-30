@@ -1,5 +1,3 @@
-# About Project
-
 # 1. Project Goal
 - Use R to visualize covid-19 growth trend. And find differences in confirmed cases between China and other countries.
 
